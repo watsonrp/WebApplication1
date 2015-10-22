@@ -7,19 +7,24 @@
     <style type="text/css">
         .auto-style1 {
             font-family: Arial, Helvetica, sans-serif;
-            font-size: x-large;
-            color: #FF9900;
+            font-size: xx-large;
+            color: #0000FF;
             text-transform: uppercase;
             font-weight: bold;
             text-align: center;
+            width: 863px;
+            height: 37px;
+            position: relative;
+            left: 3px;
+            top: 152px;
         }
     </style>
 </head>
-<body>
+<body style="height: 172px">
     <form id="form1" runat="server">
     <div class="auto-style1">
         
-        This is version 1.2</div>
+        This is version 1.3</div>
     </form>
 </body>
 </html>
