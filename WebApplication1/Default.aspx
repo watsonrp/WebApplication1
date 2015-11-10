@@ -8,7 +8,7 @@
         .auto-style1 {
             font-family: Arial, Helvetica, sans-serif;
             font-size: xx-large;
-            color: #008080;
+            color: #00FFFF;
             text-transform: uppercase;
             font-weight: bold;
             text-align: center;
@@ -24,7 +24,7 @@
     <form id="form1" runat="server">
     <div class="auto-style1">
         
-        This is version 1.9.2</div>
+        This is version 1.9.3</div>
     </form>
 </body>
 </html>
