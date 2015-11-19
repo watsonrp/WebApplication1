@@ -24,7 +24,7 @@
     <form id="form1" runat="server">
     <div class="auto-style1">
         
-        This is version 1.9.4</div>
+        This is version 1.9.5</div>
     </form>
 </body>
 </html>
