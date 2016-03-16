@@ -15,8 +15,8 @@
             width: 863px;
             height: 37px;
             position: relative;
-            left: 3px;
-            top: 152px;
+            left: 59px;
+            top: 81px;
         }
     </style>
 </head>
@@ -24,7 +24,7 @@
     <form id="form1" runat="server">
     <div class="auto-style1">
         
-        This is version 1.9.8</div>
+        This is version 1.9.9</div>
     </form>
 </body>
 </html>
